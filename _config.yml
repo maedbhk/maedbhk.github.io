@@ -18,6 +18,8 @@ plugins:
 - jekyll-feed
 - jemoji
 - jekyll-remote-theme
+- jekyll-gist
+- jekyll-twitter-plugin
 
 # Site settings
 url: 'https://mydomain.com'
@@ -50,7 +52,9 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "Berkeley Psychology Graduate Student Spotlights"
+    description: "Each month we 'spotlight' the work of one graduate student in the Department of Psychology at UC Berkeley
+    Our aim is to showcase the great work that the students are doing across all areas: Cognitive and Behavioural Neuroscience,
+    Social-Personality, Cognition, and Development"
     feature_text: |
-      Berkeley Psychology Graduate Student Spotlights
+      Graduate Student Spotlights
     feature_image: "https://picsum.photos/2560/600?image=866"
