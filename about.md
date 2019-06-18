@@ -1,6 +1,10 @@
 ---
 layout: page
-title: About this website
+title: About Us
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+This website is facilitated by the GASP committee at UC Berkeley 
+
+We update this page regularly with graduate student spotlights and opinion pieces contributed by psychology graduate students in the department
+
+If you would like to contribute to this collaborative effort or if you have any questions, please contact maedbhking@berkeley.edu

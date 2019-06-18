@@ -6,19 +6,19 @@
     
     
       {
-        "title": "Hello World",
-        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
-        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
-        "url": "/general/2018/08/22/hello-world/"
+        "title": "Maedbh King",
+        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n\n",
+        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n\n\n  \n\n\n",
+        "url": "/general/2018/08/22/maedbh-king/"
       },
     
   
   
   
   {
-    "title": "About this website",
+    "title": "About Us",
     "excerpt": "\n",
-    "content": "I’m not sure yet what this website is about, but I’m sure I’ll work it out soon.\n",
+    "content": "This website is facilitated by the GASP committee at UC Berkeley\n\nWe update this page regularly with graduate student spotlights and opinion pieces contributed by psychology graduate students in the department\n\nIf you would like to contribute to this collaborative effort or if you have any questions, please contact maedbhking@berkeley.edu\n",
     "url": "/about/"
   },
   
@@ -37,9 +37,9 @@
   },
   
   {
-    "title": "Welcome to my website",
+    "title": "Who We Are",
     "excerpt": "\n",
-    "content": "There isn’t much going on here yet, but watch this space\n",
+    "content": "This blog is powered by PhD students in the Department of Psychology at UC Berkeley\n\nWe are a diverse group of students studying cognition, personality, development, clinical science, cognitive and behavioural neuroscience. Our interests range from basic circuit-level neurobiology to sleep to developmental disorders\n\nThere is some pretty great research being conducted in our department and our goal is to disseminate our findings to a wider audience\n\n",
     "url": "/"
   }
   
