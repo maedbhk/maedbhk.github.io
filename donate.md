@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Hey, Rich People
+title: Donate
 ---
 
-Give us your money !
