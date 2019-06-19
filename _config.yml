@@ -39,6 +39,8 @@ navigation_header:
   url: /
 - title: About
   url: /about/
+- title: Donate
+  url: /donate/
 - title: Blog
   url: /blog/
 
