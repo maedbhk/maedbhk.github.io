@@ -1,8 +1,8 @@
-const version = '20190618203252';
+const version = '20190618204829';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2018/08/22/maedbh-king/","/about/","/categories/","/donate/","/blog/","/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","https://upload.wikimedia.org/wikipedia/commons/7/74/Greek_uc_psi.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/general/2018/08/22/maedbh-king/","/about/","/categories/","/contact/","/donate/","/blog/","/","/thanks/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","https://upload.wikimedia.org/wikipedia/commons/7/74/Greek_uc_psi.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

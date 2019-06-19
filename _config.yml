@@ -28,6 +28,7 @@ title: 'Berkeley Psychology Graduate Blog'
 description: 'Berkeley Psychology Graduate Blog'
 permalink: pretty
 logo: "https://upload.wikimedia.org/wikipedia/commons/7/74/Greek_uc_psi.svg"
+email: "maedbhking@berkeley.edu"
 
 # Pagination
 paginate: 5
@@ -41,6 +42,8 @@ navigation_header:
   url: /about/
 - title: Donate
   url: /donate/
+- title: Contact
+  url: /contact/
 - title: Blog
   url: /blog/
 

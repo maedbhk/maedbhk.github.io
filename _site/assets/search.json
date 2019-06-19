@@ -30,6 +30,13 @@
   },
   
   {
+    "title": "Contact Us",
+    "excerpt": "\n",
+    "content": "Please send us a message using the form below\n\n\n  \n    Contact\n    Name: *\n    \n\n    Email Address: *\n    \n\n    Message: *\n    \n\n    \n    \n    * indicates a required field\n\n    \n      \n      \n      \n    \n  \n\n\n\n\nPlease enable JavaScript to use the form.\n\n",
+    "url": "/contact/"
+  },
+  
+  {
     "title": "Hey, Rich People",
     "excerpt": "\n",
     "content": "Give us your money !\n",
@@ -48,6 +55,13 @@
     "excerpt": "\n",
     "content": "This blog is powered by PhD students in the Department of Psychology at UC Berkeley. We are a diverse group of students studying cognition, social-personality, development, clinical science, cognitive and behavioural neuroscience. Our interests range from basic circuit-level neurobiology to sleep to developmental disorders\n\nWe are conducting great research that has wide appeal to a broad audience. We want to disseminate our findings and ideas in a way that is accessible and engaging to everyone !\n\nTweets by ivrylab\n    \n\n\n",
     "url": "/"
+  },
+  
+  {
+    "title": "Thanks !",
+    "excerpt": "\n",
+    "content": "Thank you for messaging us ! We will get back to you soon\n",
+    "url": "/thanks/"
   }
   
 ]
