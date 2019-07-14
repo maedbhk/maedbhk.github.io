@@ -40,12 +40,12 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Donate
-  url: /donate/
 - title: Contact
   url: /contact/
 - title: Blog
   url: /blog/
+# - title: Donate
+#   url: /donate/
 
 # Footer nav
 navigation_footer:
@@ -58,7 +58,7 @@ collections:
     title: Posts
     output: true
     description: "Each month we 'spotlight' the work of graduate students across all areas of psychology: 
-    cognitive and behavioural neuroscience, social-personality, cognition, and development"
+    cognitive and behavioural neuroscience, social-personality, cognition, and development."
     feature_text: |
       Graduate Student Spotlights
     feature_image: "https://picsum.photos/2560/600?image=866"

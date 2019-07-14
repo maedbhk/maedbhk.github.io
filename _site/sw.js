@@ -1,8 +1,8 @@
-const version = '20190618204829';
+const version = '20190714124828';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2018/08/22/maedbh-king/","/about/","/categories/","/contact/","/donate/","/blog/","/","/thanks/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","https://upload.wikimedia.org/wikipedia/commons/7/74/Greek_uc_psi.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/developmental%20psychology/cognitive%20neuroscience/childhood%20inequality/language/2019/07/13/Monica-Ellwood-Lowe/","/cognitive%20neuroscience/artificial%20intelligence/emotion%20recognition/2019/07/13/Mandy-Chen/","/developmental%20psychology/artificial%20intellignece/2019/07/13/Eliza-Kosoy/","/social-personality/cognitive%20neuroscience/emotion%20recognition/artificial%20intelligence/2019/07/13/Alan-Cowen/","/about/","/categories/","/contact/","/donate/","/blog/","/","/thanks/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","https://upload.wikimedia.org/wikipedia/commons/7/74/Greek_uc_psi.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thanks !
+title: Thanks!
 ---
 
-Thank you for messaging us ! We will get back to you soon
+Thank you for messaging us! We will get back to you soon.
