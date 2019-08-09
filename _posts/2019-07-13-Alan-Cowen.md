@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight: Alan Cowen"
+title: "Leveraging Big Data to Understand Emotion"
 categories: 
 - Social-Personality
 - Cognitive Neuroscience
@@ -13,7 +13,7 @@ Alan Cowen grew up in Chicago and attended Yale University where he double major
 and Applied Math. He is starting his fifth year in the psychology graduate program at UC Berkeley where he studies 
 cognitive neuroscience and social-personality. He is supervised by Prof. Dacher Keltner. 
 
-{% include figure.html image="/images/Alan.jpg" caption="Alan Cowen is a fifth year grad student working under the supervision of Prof. Dacher Keltner" %}
+{% include figure.html image="/images/Blog_Alan.jpg" caption="Alan Cowen is a fifth year grad student working under the supervision of Prof. Dacher Keltner" %}
 
 **What drew you to study emotion?**
 
@@ -21,7 +21,9 @@ I’m interested in emotions because I believe they underlie everything we do. I
 
 **What is the goal of your research?**
 
-My goal has been to come up with a taxonomy of emotion, which means moving beyond reductive models like the six basic emotions and the affective circumplex. I’ve developed a new framework for taxonomies of emotion, with accompanying statistical tools, and used it to derive taxonomies of vocal expression ({% include button.html text="Vocal Maps" link="https://s3-us-west-1.amazonaws.com/vocs/map.html" %}), facial expression ({% include button.html text="Facial Maps" link="(https://s3-us-west-1.amazonaws.com/face28/map.html" %}), the emotions evoked by music ({% include button.html text="Music Maps" link="https://s3.amazonaws.com/musicemo/map.htm" %}) and video ({% include button.html text="Video Maps" link="https://s3.amazonaws.com/musicemo/map.htm" %}), and more. 
+My goal has been to come up with a taxonomy of emotion, which means moving beyond reductive models like the six basic emotions and the affective circumplex. I’ve developed a new framework for taxonomies of emotion, with accompanying statistical tools, and used it to derive taxonomies of vocal expression, facial expression, the emotions evoked by music and video, and more. 
+
+{% include button.html text="Vocal Maps" link="https://s3-us-west-1.amazonaws.com/vocs/map.html" %} {% include button.html text="Facial Maps" link="(https://s3-us-west-1.amazonaws.com/face28/map.html" %} {% include button.html text="Music Maps" link="https://s3.amazonaws.com/musicemo/map.htm" %} {% include button.html text="Video Maps" link="https://s3.amazonaws.com/musicemo/map.htm" %}
 
 
 **How will your findings have real-world implications?**

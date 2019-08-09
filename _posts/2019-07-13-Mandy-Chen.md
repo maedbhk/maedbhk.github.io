@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight: Mandy Chen"
+title: "Context is Crucial in Identifying Emotions"
 categories: 
 - Cognitive Neuroscience
 - Artificial Intelligence

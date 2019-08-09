@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight: Monica Ellwood-Lowe"
+title: "Structural Forces at Play in Guiding Child Development"
 categories: 
 - Developmental Psychology
 - Cognitive Neuroscience
@@ -25,7 +25,7 @@ In some of my work, I’ve found that the volume of the hippocampus, a stress-se
 
 In ongoing work with Professors Silvia Bunge and Mahesh Srinivasan, I’m specifically measuring aspects of the home environment that we think might be important, like the language surrounding a child during a typical day, and looking at how these relate to children’s attention, learning, and memory. I’m interested not in characterizing one set pattern of “optimal” development, but rather characterizing how development unfolds given the environmental context a child happens to grow up in. What is adaptive for one child given their context may be totally maladaptive for another. We can’t blindly assume the white upper-middle class context and developmental trajectory is optimal.
 
-{% include figure.html image="/images/Monica.png" caption="Hippocampal volume in teenage girls is modulated by household income" %}
+{% include figure.html image="/images/Blog_Monica.png" caption="Hippocampal volume in teenage girls is modulated by household income" %}
 
 **How do you think your findings have the potential to inform public policy, education or early-life programs?**
 

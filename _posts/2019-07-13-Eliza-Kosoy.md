@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight: Eliza Kosoy"
+title: "AI has much to Learn From Childhood Curiosity"
 categories: 
 - Developmental Psychology
 - Artificial Intellignece
@@ -10,7 +10,7 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 Eliza Kosoy grew up in New York City and attended Emmanuel College where she studied Mathematics. She is starting her second year
 in the psychology graduate program at UC Berkeley where she studies developmental psychology. She is supervised by Prof. Alison Gopnik.
 
-{% include figure.html image="/images/Eliza.png" caption="Eliza Kosoy is a second year grad student working under the supervision of Prof. Alison Gopnik" %}
+{% include figure.html image="/images/Blog_Eliza.png" caption="Eliza Kosoy is a second year grad student working under the supervision of Prof. Alison Gopnik" %}
 
 **What drew you to study the intersection between child development and artificial intelligence (AI)?**
 
