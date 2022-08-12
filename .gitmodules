@@ -1,0 +1,3 @@
+[submodule "MIT-Projects"]
+	path = MIT-Projects
+	url = git@github.com:maedbhk/MIT-Projects.git
